@@ -1,4 +1,5 @@
 import {app, BrowserWindow, Menu} from 'electron'
+import "node_modules/nes.css/css/nes.min.css";
 
 /**
  * Set `__static` path to static files in production
