@@ -11,7 +11,7 @@
                         <form id="news_post" role="form" lpformnum="2" _lpchecked="1" onsubmit="return false;">
                             <!-- text input -->
                             <div class="form-group">
-                                <textarea disabled rows=1 class="form-control">{{wallet.address}}</textarea>
+                                <textarea disabled rows=1 class="form-control" style="height:50px">{{wallet.address}}</textarea>
                             </div>
                         </form>
                     </div>
